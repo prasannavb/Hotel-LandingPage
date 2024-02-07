@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# QuotesAPI Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Welcome to the Hotel Landing Page project! This project is a hotel landing page created using Create React App. It provides users with information about the hotel, including its amenities, rooms, and contact details.</p>
 
-## Available Scripts
+<h1>Table of Contents</h1>
+<ul>
+  <li>Features</li>
+  <li>Tech Stack</li>
+  <li>Demo</li>
+  <li>Installation</li>
+</ul>
 
-In the project directory, you can run:
+<h2>Features</h2>
+<ul>
+  <li><b>Amenities Section:</b>Generates random quotes along with the author's name.</li>
+  <li><b>Rooms Showcase:  </b> Allows users to select specific topics (e.g., happiness, motivation) to generate quotes related to those topics.</li>
+  <li><b>Contact Form:</b>  Ensures the page is responsive and accessible across various devices.</li>
+  <li><b>Simple Design:</b>  Ensures the page is responsive and accessible across various devices.</li>
+</ul>
 
-### `npm start`
+<h2>Tech Stack</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>React.js: A JavaScript library for building user interfaces.</li>
+  <li>Create React App: A tool for creating React applications with no build configuration.</li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>Demo</h2>
+<ul>
+  <li>You can see a demo of the Hotel landing page <a href='https://github.com/prasannavb/Hotel-LandingPage/'>here</a>.</li>
+</ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2>Installation</h2>
+<span>To install and run this game locally, follow these steps:</span>
+<li><b>Clone the repository:</b></li>
+<code>git clone https://github.com/prasannavb/Hotel-LandingPage.git</code><br/>
+<li><b>Navigate to the project directory:</b></li>
+<code>cd Quotes-API</code><br/>
+<li><b>Install dependencies:</b></li>
+<code>npm install</code><br/>
+<li><b>Start the development server:</b></li>
+<code>npm start</code><br/>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
