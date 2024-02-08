@@ -1,4 +1,4 @@
-# QuotesAPI Project
+# Hotel Project
 
 <p>Welcome to the Hotel Landing Page project! This project is a hotel landing page created using Create React App. It provides users with information about the hotel, including its amenities, rooms, and contact details.</p>
 
@@ -12,10 +12,10 @@
 
 <h2>Features</h2>
 <ul>
-  <li><b>Amenities Section:</b>Generates random quotes along with the author's name.</li>
-  <li><b>Rooms Showcase:  </b> Allows users to select specific topics (e.g., happiness, motivation) to generate quotes related to those topics.</li>
-  <li><b>Contact Form:</b>  Ensures the page is responsive and accessible across various devices.</li>
-  <li><b>Simple Design:</b>  Ensures the page is responsive and accessible across various devices.</li>
+  <li><b>Amenities Section:</b>Highlights the hotel's amenities and facilities, providing users with information about what the hotel has to offer.</li>
+  <li><b>Rooms Showcase:  </b>Highlights the hotel's amenities and facilities, providing users with information about what the hotel has to offer.</li>
+  <li><b>Contact Form:</b>  Highlights the hotel's amenities and facilities, providing users with information about what the hotel has to offer.</li>
+  <li><b>Responsive Design: </b>  Ensures the page is responsive and accessible across various devices.</li>
 </ul>
 
 <h2>Tech Stack</h2>
@@ -36,7 +36,7 @@
 <li><b>Clone the repository:</b></li>
 <code>git clone https://github.com/prasannavb/Hotel-LandingPage.git</code><br/>
 <li><b>Navigate to the project directory:</b></li>
-<code>cd Quotes-API</code><br/>
+<code>cd HotelLandingPage</code><br/>
 <li><b>Install dependencies:</b></li>
 <code>npm install</code><br/>
 <li><b>Start the development server:</b></li>
